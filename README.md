@@ -1,4 +1,4 @@
-# Financial-Modelling-Revenue-Forecasting-of-PVR--INOX
+# Financial-Modelling-Revenue-Forecasting-of-PVR-INOX
 
 # PVR INOX – Financial Modelling & Revenue Forecasting
 
